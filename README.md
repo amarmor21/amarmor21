@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amar More.
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning computer engenering.
-- 💞️ I’m looking to collaborate on Cloud computing | DevOps | full stack development.
+- 💞️ I’m looking to collaborate on Cloud computing | DevOps | full stack developer.
 - 📫 How to reach me mamar7694@gmail.com.
 - 😄 Pronouns: Amar Anil More.
 - ⚡ Fun fact: development.
